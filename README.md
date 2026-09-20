@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yedlaakshaya/Arrays/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yedlaakshaya/Arrays/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yedlaakshaya/Arrays/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/yedlaakshaya/Arrays/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/yedlaakshaya/Arrays/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yedlaakshaya/Arrays/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yedlaakshaya/Arrays/tree/master/0189-rotate-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/yedlaakshaya/Arrays/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
