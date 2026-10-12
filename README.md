@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/yedlaakshaya/Arrays/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/yedlaakshaya/Arrays/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yedlaakshaya/Arrays/tree/master/0189-rotate-array) |
+| [1480-running-sum-of-1d-array](https://github.com/yedlaakshaya/Arrays/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yedlaakshaya/Arrays/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/yedlaakshaya/Arrays/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
